@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LionSchool</string>
+    <string name="app_name_school">School</string>
+    <string name="logo_lion_school">Logo LionSchool</string>
+    <string name="title_app_name">Lion School</string>
+    <string name="title_homescreen">Encontre seu curso favorito</string>
+    <string name="subtitle_homescreen">Chegue ao seu destino mais rápido, estude na melhor escola profissionalizante do Brasil. Seja a melhor versão de si mesmo.</string>
+    <string name="button_start_homescreen">Começar</string>
+    <string name="text_field_courses">Encontre seu curso</string>
+    <string name="lion_list">List</string>
+    <string name="courses">Cursos</string>
+    <string name="lion_ds">Logo DS</string>
+    <string name="couse_acronym_ds">DS</string>
+    <string name="couse_acronym_rds">RDS</string>
+    <string name="couse_acronym_ele">ELE</string>
+    <string name="couse_name_ds">Desenvolvimento de Sistemas</string>
+    <string name="couse_name_rds">Redes de Computadores</string>
+    <string name="couse_name_ele">Eletroeletrônica</string>
+    <string name="couse_description_ds">Aprenda a desenvolver aplicativos web e mobile.</string>
+    <string name="couse_description_rds">Aprenda a projetar redes de comunicação.</string>
+    <string name="couse_description_ele">Aprenda a projetar redes de comunicação.</string>
+    <string name="couse_term_ds">3 semestres</string>
+    <string name="couse_term_rds">3 semestres</string>
+    <string name="couse_term_ele">3 semestres</string>
+    <string name="text_field_students">Encontre um aluno</string>
+    <string name="all_students">Todos</string>
+    <string name="studying">Cursando</string>
+    <string name="conclude">Finalizado</string>
+    <string name="lion_graduation">Capelo</string>
+    <string name="students_list">Lista de Alunos</string>
+    <string name="lion_user_luana">Foto de perfil usuário</string>
+    <string name="lion_user_name_luana">Luana Oliveira Dias</string>
+    <string name="lion_user_matricula_luana">20151001018</string>
+    <string name="lion_user_year_luana">2022</string>
+    <string name="lion_user">image</string>
+    <string name="lion_user_name_pedro">Pedro da Silva Borges</string>
+    <string name="lion_user_matricula_pedro">20151001018</string>
+    <string name="lion_user_year_pedro">2022</string>
+</resources>
